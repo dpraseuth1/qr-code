@@ -34,15 +34,21 @@ body {
 h1 {
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  font-size: 20px;
-  font-family: outfit;
+  font-size: 23px;
+  font-family: "Outfit";
+  /* margin-top: -5px; */
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 p {
   font-weight: absolute 400;
   color: hsl(220, 15%, 55%);
   font-size: 15px;
-  font-family: outfit;
+  font-family: "Outfit";
+  margin-bottom: 35px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 footer {
